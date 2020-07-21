@@ -23,6 +23,19 @@
  &nbsp;<img style="margin: auto;" src=https://github.com/konpa/devicon/blob/master/icons/java/java-original.svg alt=java width="40" height="40"/>
 </p>
 
+<h4> Tools: </h4>
+<p align="left">
+ <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg alt=django width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg alt=github width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg alt=vs width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/atom/atom-original.svg alt=atom width="40" height="40"/>
+ &nbsp;<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg alt=ubuntu width="40" height="40"/>
+ </p>
+
 <p align="center">
 <a href=https://linkedin.com/in/mnb27 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mnb27" height="40" width="40" /></a>
 &nbsp;&nbsp;<a href=https://instagram.com/_mn_b27 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_mn_b27" height="40" width="40" /></a>
